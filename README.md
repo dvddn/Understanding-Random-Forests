@@ -7,13 +7,13 @@ Contains three jupyter notebooks on:
 - Using Random Forest and its tools on a simple classification task (partly reuses some sklearn documentation)
 
 Packages used:
-pandas
-numpy
-matplotlib
-scipy
-sklearn
-seaborn
-ipywidgets
-tqdm
-warnings
-fig_code (download from this repository)
+- pandas
+- numpy
+- matplotlib
+- scipy
+- sklearn
+- seaborn
+- ipywidgets
+- tqdm
+- warnings
+- fig_code (download from this repository)
